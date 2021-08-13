@@ -1,8 +1,10 @@
 ![Avi](me.gif)
 
-## Hi there 👋 , I am **Avi Kumrawat**, IT student in ABV-IIITM Gwalior.
+## Hi there 👋 , I am **Avi Kumrawat**, IT student in [IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/).
 - 👯 I'm happy to collaborate on any web development project
-- 📫 How to reach me: avikumrawat18@gmail.com
+- 📫 How to reach me: 
+  - Personal: avikumrawat18@gmail.com
+  - College: imt_2019025@iiitm.ac.in
 
 
 ### Social media profiles
