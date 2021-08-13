@@ -1,3 +1,5 @@
+![Avi](me.gif)
+
 ### Hi there 👋
 
 <!--
